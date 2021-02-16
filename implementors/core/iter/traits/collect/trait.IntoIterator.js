@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["bytes"] = [{"text":"impl&lt;T, U&gt; IntoIterator for Chain&lt;T, U&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;T: Buf,<br>&nbsp;&nbsp;&nbsp;&nbsp;U: Buf,&nbsp;</span>","synthetic":false,"types":[]},{"text":"impl IntoIterator for Bytes","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; IntoIterator for &amp;'a Bytes","synthetic":false,"types":[]},{"text":"impl IntoIterator for BytesMut","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; IntoIterator for &amp;'a BytesMut","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
